@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Native,Spring Boot**
 
-- 💬 Ask me about **React,MERN**
+- 💬 Ask me about **React,MERN,Angular**
 
 - 📫 How to reach me **biplabmath1998@gmail.com**
 
